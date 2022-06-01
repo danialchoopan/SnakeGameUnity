@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 48ad5db6accdd1a44a9db3d623df85b1
+  - enabled: 1
+    path: Assets/Scenes/levels.unity
+    guid: 0b93b259e94eac542816996511fa67ba
+  - enabled: 1
+    path: Assets/Scenes/Snake_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Snake_2.unity
+    guid: 718e9bd472585504db492fa694cdb671
+  - enabled: 1
+    path: Assets/Scenes/Snake_3.unity
+    guid: 8e76d3ccfa49cc641adf5cc0e01d4b62
+  - enabled: 1
+    path: Assets/Scenes/Snake_4.unity
+    guid: c5e94c2dc18bac64a9be53f671793295
+  - enabled: 1
+    path: Assets/Scenes/Snake_5.unity
+    guid: caafa366db744f74189919dd33473024
+  - enabled: 1
+    path: Assets/Scenes/Snake_6.unity
+    guid: e70b13d03fdb17b4e987fce0245a8c1e
+  - enabled: 1
+    path: Assets/Scenes/Snake_free_game.unity
+    guid: 476f5bfe301752a4b831e8043c3fd38e
+  m_configObjects: {}
