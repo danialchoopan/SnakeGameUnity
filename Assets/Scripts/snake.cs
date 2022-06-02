@@ -182,7 +182,7 @@ public class snake : MonoBehaviour
                 case 2:
                     game_score.text=((int)player_point).ToString()+"/20 : ﺎﻤﺷ ﺯﺎﯿﺘﻣﺍ";
                     PlayerPrefs.SetInt("snake_score_2",player_point);
-                    if(player_point>=2){
+                    if(player_point>=20){
                         // game_score.text="شما برنده شده اید";
                         
                         PlayerPrefs.SetInt("snake_score_2_done",1);
