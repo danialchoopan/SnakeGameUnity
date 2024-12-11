@@ -1,0 +1,2 @@
+Welcome to my first game project, "Snake Game," developed in Unity! 🎮 I created this game during my third year of university, and it holds a special place in my heart as it was my first step into game development. 🐍 While it's not the most professional game, it was an important learning experience. The journey of building this game brought back great memories, and I’m proud to share it with you. I hope you enjoy playing it as much as I enjoyed creating it. Any feedback or suggestions are greatly appreciated! Thank you for checking it out! 😊
+
